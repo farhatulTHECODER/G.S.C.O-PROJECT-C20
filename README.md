@@ -1,2 +1,2 @@
-# G.S.C.O-PROJECT-C20
-DETECTING THE RATE COLLISION OF THE CAR WHEN IS CRASHING WITH THE WALL
+# p5.play-boilerplate
+Boiler plate for p5.play
